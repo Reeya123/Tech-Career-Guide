@@ -1,70 +1,35 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tech Career Guide
+Tech Career Guide is a comprehensive website designed to assist individuals at every stage of their career journey, whether they are high school students exploring career options, college students looking to specialize, professionals transitioning into tech, or enthusiasts eager to learn new skills in the tech world.
 
-## Available Scripts
+## Overview
+At Tech Career Guide, users can explore various career paths within the tech industry and access detailed roadmaps tailored to each role. Our platform serves as a roadmap tool, providing developers and students with clear guidance on skill acquisition and career progression. Backed by extensive research, our roadmaps offer users a blueprint for developing strong coding habits and achieving proficiency in their chosen field.
 
-In the project directory, you can run:
+## Key Features
+**Detailed Roadmaps**: It offers comprehensive roadmaps for different tech roles and skills, providing users with a structured learning path.
 
-### `npm start`
+**Integrated Exercises**: Users can engage in topic-specific coding exercises directly on the platform to assess and reinforce their skills.
+
+**Curated Resources**: We curate a collection of articles and videos to complement the learning experience, offering additional insights and resources for users.
+
+**Interactive Flowcharts**: Our interactive flowcharts guide users through various software skills, making it easier to navigate complex topics and concepts.
+
+**Technology Stack**: Tech Career Guide is built using Node.js, TypeScript, and React, ensuring a seamless and responsive user experience.
+
+## Screenshots
+![Asp ppt](https://github.com/Reeya123/Tech-Career-Guide/assets/56750374/d7c80dc5-9bbf-43e2-b109-b6cbb01dab36)
+![Asp ppt (1)](https://github.com/Reeya123/Tech-Career-Guide/assets/56750374/7f637224-5a50-4fe4-a1d5-73801985c2cc)
+![Asp ppt (2)](https://github.com/Reeya123/Tech-Career-Guide/assets/56750374/156fb8fd-76b3-48fb-861f-5b52bc8cd3f4)
+
+## Getting Started 
+Run `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+_Tech Career Guide - Empowering Your Tech Journey_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
