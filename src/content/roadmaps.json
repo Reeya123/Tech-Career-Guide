@@ -1,0 +1,5137 @@
+[
+  {
+    "seo": {
+      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
+      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
+      "keywords": [
+        "javascript roadmap 2022",
+        "frontend roadmap 2022",
+        "frontend developer roadmap 2022",
+        "guide to becoming a developer",
+        "guide to becoming a frontend developer",
+        "frontend developer",
+        "frontend engineer",
+        "frontend skills",
+        "frontend development",
+        "javascript developer",
+        "frontend development skills",
+        "frontend development skills test",
+        "frontend roadmap",
+        "frontend engineer roadmap",
+        "frontend developer roadmap",
+        "become a frontend developer",
+        "frontend developer career path",
+        "javascript developer",
+        "modern javascript developer",
+        "node developer",
+        "skills for frontend development",
+        "learn frontend development",
+        "what is frontend development",
+        "frontend developer quiz",
+        "frontend developer interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Frontend",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Internet",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "HTTP",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Browsers",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "DNS",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Hosting",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "HTML",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "HTML Basics",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Semantic HTML",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Form and Validation",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Best Practices",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Basics of SEO",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "CSS",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "CSS basics",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Making the Layouts",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Modern CSS",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3",
+                  "children": [
+                    {
+                      "name": "Styled components",
+                      "rx": "-60",
+                      "ry": "-20",
+                      "width": "145.3"
+                    },
+                    {
+                      "name": "CSS Modules",
+                      "rx": "-20",
+                      "ry": "-5",
+                      "width": "145.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Responsive Web Design",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Javascript",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "DOM Manipulation",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Fetch API",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Pick a Framework",
+                  "rx": "-40",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            },
+            {
+              "name": "Modern JavaScript",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Git",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3"
+        },
+        {
+          "name": "Testing your apps",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Jest",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Enzyme",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Internet",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "HTTP",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Browsers",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "DNS",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Hosting",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "HTML",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "HTML Basics",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "HTML Cheatsheet",
+            "link": "https://htmlcheatsheet.com"
+          },
+          {
+            "read": true,
+            "id": "Scaler: HTML",
+            "link": "https://www.scaler.com/topics/html"
+          },
+          {
+            "read": true,
+            "id": "MDN Docs: Getting Started with HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started"
+          },
+          {
+            "read": false,
+            "id": "HTML Tutorial for Beginners: HTML Crash Course",
+            "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU"
+          }
+        ]
+      },
+      {
+        "title": "Semantic HTML",
+        "description": "Semantic element clearly describes its meaning to both the browser and the developer. In HTML, semantic element are the type of elements that can be used to define different parts of a web page such as `<form>`, `<table>`, `<article>`, `<header>`, `<footer>`, etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN",
+            "link": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics"
+          },
+          {
+            "read": true,
+            "id": "W3Schools: Semantic HTML",
+            "link": "https://www.w3schools.com/html/html5_semantic_elements.asp"
+          },
+          {
+            "read": true,
+            "id": "How To Write Semantic HTML",
+            "link": "https://hackernoon.com/how-to-write-semantic-html-dkq3ulo"
+          },
+          {
+            "read": true,
+            "id": "Semantic Markup",
+            "link": "https://html.com/semantic-markup"
+          }
+        ]
+      },
+      {
+        "title": "Forms and Validations",
+        "description": "Before submitting data to the server, it is important to ensure all required form controls are filled out, in the correct format. This is called client-side form validation, and helps ensure data submitted matches the requirements set forth in the various form controls.",
+        "links": [
+          {
+            "read": true,
+            "id": "MDN: Client-side form validation",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation"
+          },
+          {
+            "read": true,
+            "id": "Learn Forms by web.dev",
+            "link": "https://web.dev/learn/forms/"
+          }
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "description": "Learn to follow the best practices for writing maintainable and scalable HTML documents.",
+        "links": [
+          {
+            "read": true,
+            "id": "HTML Best Practices",
+            "link": "https://github.com/hail2u/html-best-practices"
+          }
+        ]
+      },
+      {
+        "title": "Basics of SEO",
+        "description": "SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "Google Search Central — SEO Docs",
+            "link": "https://developers.google.com/search/docs"
+          },
+          {
+            "read": true,
+            "id": "SEO Guide",
+            "link": "https://github.com/seo/guide"
+          },
+          {
+            "read": true,
+            "id": "8 Must-Know SEO Best Practices For Developers",
+            "link": "https://neilpatel.com/blog/seo-developers/"
+          },
+          {
+            "read": false,
+            "id": "Complete SEO Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=xsVTqzratPs"
+          }
+        ]
+      },
+      {
+        "title": "CSS",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "CSS Basics",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Responsive Web Design",
+            "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+          },
+          {
+            "read": true,
+            "id": "Learn to Code HTML & CSS",
+            "link": "https://learn.shayhowe.com/html-css/building-your-first-web-page/"
+          },
+          {
+            "read": false,
+            "id": "HTML and CSS Tutorial",
+            "link": "https://www.youtube.com/watch?v=D-h8L5hgW-w"
+          }
+        ]
+      },
+      {
+        "title": "Making the layouts",
+        "description": "Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts. Use the resources below to learn about these topics:",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn and Practice Flexbox",
+            "link": "https://flexboxfroggy.com/"
+          },
+          {
+            "read": true,
+            "id": "All about Floats",
+            "link": "https://css-tricks.com/all-about-floats/"
+          },
+          {
+            "read": true,
+            "id": "The Box Model",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"
+          },
+          {
+            "read": false,
+            "id": "Learn CSS Grid - Course",
+            "link": "https://cssgrid.io/"
+          }
+        ]
+      },
+      {
+        "title": "Responsive Web Design",
+        "description": "Responsive Web Designing is the technique to make your webpages look good on all screen sizes. There are certain techniques used to achieve that e.g. CSS media queries, percentage widths, min or max widths heights etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn Responsive Design",
+            "link": "https://web.dev/learn/design/"
+          },
+          {
+            "read": true,
+            "id": "The Beginner’s Guide to Responsive Web Design",
+            "link": "https://kinsta.com/blog/responsive-web-design/"
+          },
+          {
+            "read": true,
+            "id": "The guide to responsive web design",
+            "link": "https://webflow.com/blog/responsive-web-design"
+          },
+          {
+            "read": false,
+            "id": "Introduction To Responsive Web Design",
+            "link": "https://www.youtube.com/watch?v=srvUrASNj0s"
+          }
+        ]
+      },
+      {
+        "title": "JavaScript",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "DOM Manipulation",
+        "description": "The Document Object Model (DOM) is a programming interface built for HTML and XML documents. It represents the page that allows programs and scripts to dynamically update the document structure, content, and style. With DOM, we can easily access and manipulate tags, IDs, classes, attributes, etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "DOM Tree",
+            "link": "https://javascript.info/dom-nodes"
+          },
+          {
+            "read": true,
+            "id": "What is the DOM?",
+            "link": "https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/"
+          },
+          {
+            "read": true,
+            "id": "The Document Object Model",
+            "link": "https://eloquentjavascript.net/14_dom.html"
+          },
+          {
+            "read": false,
+            "id": "JavaScript DOM Crash Course",
+            "link": "https://www.youtube.com/watch?v=0ik6X4DJKCc"
+          }
+        ]
+      },
+      {
+        "title": "Fetch API",
+        "description": "Ajax is the technique that lets us send and receive the data asynchronously from the servers e.g. updating the user profile or asynchronously fetching the list of searched products without reloading the page.",
+        "links": [
+          {
+            "read": true,
+            "id": "Fetch API MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+          },
+          {
+            "read": true,
+            "id": "A Simple Guide to JavaScript Fetch API",
+            "link": "https://www.javascripttutorial.net/javascript-fetch-api/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Fetch API",
+            "link": "https://www.youtube.com/watch?v=-ZI0ea5O2oA"
+          }
+        ]
+      },
+      {
+        "title": "Modern JavaScript",
+        "description": "ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language. It is the first major update to the language since ES5 which was standardized in 2009. You should look at the features introduced with ES6 and onwards.",
+        "links": [
+          {
+            "read": true,
+            "id": "ES6 Tutorial",
+            "link": "https://www.javascripttutorial.net/es6/"
+          },
+          {
+            "read": true,
+            "id": "Modern JavaScript ES6, ES7 & ES8",
+            "link": "https://codeloop.org/learn-modern-javascript-es6-es7-es8"
+          },
+          {
+            "read": false,
+            "id": "JavaScript ES6, ES7, ES8",
+            "link": "https://www.youtube.com/watch?v=nZ1DMMsyVyI"
+          }
+        ]
+      },
+      {
+        "title": "Enzyme",
+        "description": "Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.",
+        "links": [
+          {
+            "read": true,
+            "id": "Enzyme Website",
+            "link": "https://enzymejs.github.io/enzyme/"
+          }
+        ]
+      },
+      {
+        "title": "Pick a Framework",
+        "description": "Web frameworks are designed to write web applications. Frameworks are collections of libraries that aid in the development of a software product or website. Frameworks for web application development are collections of various tools. Frameworks vary in their capabilities and functions, depending on the tasks set. They define the structure, establish the rules, and provide the development tools required.",
+        "links": [
+          {
+            "read": false,
+            "id": "What is the difference between a framework and a library?",
+            "link": "https://www.youtube.com/watch?v=D_MO9vIRBcA"
+          },
+          {
+            "read": false,
+            "id": "Which JS Framework is best?",
+            "link": "https://www.youtube.com/watch?v=cuHDQhDhvPE"
+          }
+        ]
+      },
+      {
+        "title": "Testing your apps",
+        "description": "Before delivering your application to users, you need to be sure that your app meets the requirements it was designed for, and that it doesn't do any weird, unintended things (called 'bugs'). To accomplish this, we 'test' our applications in different ways.",
+        "links": [
+          {
+            "read": true,
+            "id": "A comprehensive dive into software testing.",
+            "link": "https://www.softwaretestingmaterial.com/software-testing/"
+          },
+          {
+            "read": true,
+            "id": "The different types of software tests",
+            "link": "https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing"
+          },
+          {
+            "read": true,
+            "id": "Testing React apps with Jest",
+            "link": "https://jestjs.io/docs/tutorial-react"
+          }
+        ]
+      },
+      {
+        "title": "Jest",
+        "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!",
+        "links": [
+          {
+            "read": true,
+            "id": "Official Jest Website",
+            "link": "https://jestjs.io/"
+          }
+        ]
+      },
+      {
+        "title": "Modern CSS",
+        "description": "The way we write CSS in our modern front-end applications is completely different from how we used to write CSS before. There are methods such as Styled Components, CSS Modules, Styled JSX,  Emotion, etc",
+        "links": []
+      },
+      {
+        "title": "Styled components",
+        "description": "Styled-components is a CSS-in-JS library that enables you to write regular CSS and attach it to JavaScript components. With styled-components, you can use the CSS you’re already familiar with instead of having to learn a new styling structure.",
+        "links": [
+          {
+            "read": true,
+            "id": "Official Website",
+            "link": "https://styled-components.com/"
+          },
+          {
+            "read": true,
+            "id": "Official Docs",
+            "link": "https://styled-components.com/docs"
+          },
+          {
+            "read": false,
+            "id": "Styled Components Crash Course & Project",
+            "link": "https://www.youtube.com/watch?v=02zO0hZmwnw"
+          }
+        ]
+      },
+      {
+        "title": "CSS Modules",
+        "description": "CSS files in which all class names and animation names are scoped locally by default.",
+        "links": [
+          {
+            "read": true,
+            "id": "Official Website",
+            "link": "https://github.com/css-modules/css-modules"
+          },
+          {
+            "read": true,
+            "id": "Using CSS Modules In React App",
+            "link": "https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87"
+          },
+          {
+            "read": false,
+            "id": "CSS Modules: Why are they great?",
+            "link": "https://www.youtube.com/watch?v=pKMWU9OrA2s"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Create a for loop that iterates up to 100 while outputting fizz at multiples of 3, buzz at multiples of 5 and fizzbuzz at multiples of 3 and 5",
+          "sample":""
+      },
+      {
+          "question":"Make this work:",
+          "sample":"duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]"
+      }
+  
+  ],
+    "title": "Frontend Developer",
+    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "featuredTitle": "Frontend",
+    "featuredDescription": "Step by step guide to becoming a frontend developer in 2022",
+    "type": "role",
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "featured": true,
+    "imageUrl": "/roadmaps/frontend.png",
+    "jsonUrl": "/project/frontend.json",
+    "resourcesPath": "/roadmaps/100-frontend/resources.md",
+    "pdfUrl": "/pdfs/frontend.pdf",
+    "contentPathsFilePath": "/roadmaps/100-frontend/content-paths.json",
+    "relatedRoadmaps": [
+      "javascript",
+      "nodejs",
+      "react",
+      "angular",
+      "vue",
+      "design-system"
+    ],
+    "id": "frontend",
+    "metaPath": "/roadmaps/100-frontend/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Backend Developer Roadmap: Learn to become a modern backend developer",
+      "description": "Learn to become a modern backend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern backend development.",
+      "keywords": [
+        "backend roadmap 2022",
+        "backend developer roadmap 2022",
+        "guide to becoming a developer",
+        "guide to becoming a backend developer",
+        "backend roadmap",
+        "backend developer",
+        "backend engineer",
+        "backend skills",
+        "backend development",
+        "javascript developer",
+        "backend development skills",
+        "backend development skills test",
+        "backend engineer roadmap",
+        "backend developer roadmap",
+        "become a backend developer",
+        "backend developer career path",
+        "javascript developer",
+        "modern javascript developer",
+        "node developer",
+        "skills for backend development",
+        "learn backend development",
+        "what is backend development",
+        "backend developer quiz",
+        "backend developer interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Backend",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Internet",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "HTTP",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Browsers",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "DNS",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Hosting",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Basic Frontend Knowledge",
+          "rx": "-100",
+          "ry": "-20",
+          "width": "155.3",
+          "children": [
+            {
+              "name": "HTML",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "CSS",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "JavaScript",
+              "rx": "-160",
+              "ry": "-20",
+              "width": "220.3"
+            }
+          ]
+        },
+        {
+          "name": "OS and General Knowledge",
+          "rx": "-100",
+          "ry": "-20",
+          "width": "155.3",
+          "chlidren": [
+            {
+              "name": "Terminal Usage",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "How OS works in general",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Process Management",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Threads and Concurrency",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Memory Management",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Learn a Language",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Java",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "PHP",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Python",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Version Control Systems",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        },
+        {
+          "name": "Relational Database",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Internet",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "HTTP",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Browsers",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "DNS",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Hosting",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "Basic Frontend Knowledge",
+        "description": "As a backend developer, you may not need to have proficient knowledge of the frontend stack but you should at least have some basic understanding of HTML, CSS and JavaScript.",
+        "links": []
+      },
+      {
+        "title": "HTML",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "CSS",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "JavaScript",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Learn a Language",
+        "description": "Even if you’re a beginner the least you would have known is that Web Development is majorly classified into two facets: Frontend Development and Backend Development. And obviously, they both have their respective set of tools and technologies. For instance, when we talk about Frontend Development, there always comes 3 names first and foremost – HTML, CSS, and JavaScript.In the same way, when it comes to Backend Web Development – we primarily require a backend (or you can say server-side) programming language to make the website function along with various other tools & technologies such as databases, frameworks, web servers, etc..",
+        "links": []
+      },
+      {
+        "title": "Java",
+        "description": "Java is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "PHP",
+        "description": "PHP is a general purpose scripting language often used for making dynamic and interactive Web pages. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group and supported by PHP Foundation. PHP supports procedural and object-oriented styles of programming with some elements of functional programming as well.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn PHP",
+            "link": "https://www.w3schools.com/php/"
+          },
+          {
+            "read": true,
+            "id": "PHP - The Right Way",
+            "link": "https://phptherightway.com/"
+          },
+          {
+            "read": false,
+            "id": "PHP for Beginners",
+            "link": "https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC"
+          }
+        ]
+      },
+      {
+        "title": "Python",
+        "description": "Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Getting Started",
+            "link": "https://www.python.org/about/gettingstarted/"
+          },
+          {
+            "read": true,
+            "id": "Automate the Boring Stuff",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "read": true,
+            "id": "Getting Started with Python and InfluxDB",
+            "link": "https://thenewstack.io/getting-started-with-python-and-influxdb/"
+          }
+        ]
+      },
+      {
+        "title": "OS and General Knowledge",
+        "description": "Operating System is a program that manages a computer’s resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is an operating system?",
+            "link": "https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/"
+          },
+          {
+            "read": false,
+            "id": "Operating Systems: Crash Course",
+            "link": "https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse"
+          }
+        ]
+      },
+      {
+        "title": "Version Control Systems",
+        "description": "Version control/source control systems allow developers to track and control changes to code over time. These services often include the ability to make atomic revisions to code, branch/fork off of specific points, and to compare versions of code. They are useful in determining the who, what, when, and why code changes were made.",
+        "links": [
+          {
+            "read": true,
+            "id": "Git",
+            "link": "https://git-scm.com/"
+          },
+          {
+            "read": true,
+            "id": "Mercurial",
+            "link": "https://www.mercurial-scm.org/"
+          },
+          {
+            "read": true,
+            "id": "What is Version Control?",
+            "link": "https://www.atlassian.com/git/tutorials/what-is-version-control"
+          }
+        ]
+      },
+      {
+        "title": "Relational Database",
+        "description": "A relational database is **a type of database that stores and provides access to data points that are related to one another**. Relational databases store data in a series of tables. Interconnections between the tables are specified as foreign keys. A foreign key is a unique reference from one row in a relational table to another row in a table, which can be the same table but is most commonly a different table.",
+        "links": [
+          {
+            "read": true,
+            "id": "Relational Databases",
+            "link": "https://www.ibm.com/cloud/learn/relational-databases"
+          },
+          {
+            "read": true,
+            "id": "Relational Databases",
+            "link": "https://learnsql.com/blog/codd-article-databases/"
+          },
+          {
+            "read": false,
+            "id": "What is Relational Database",
+            "link": "https://youtu.be/OqjJjpjDRLc"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"What is the difference between JOIN and UNION",
+          "sample":""
+      },
+      {
+          "question":"Explain what is the API Gateway pattern",
+          "sample":""
+      }
+  ],
+    "title": "Backend Developer",
+    "description": "Step by step guide to becoming a modern backend developer in 2022",
+    "type": "role",
+    "featuredTitle": "Backend",
+    "featuredDescription": "Step by step guide to becoming a backend developer in 2022",
+    "featured": true,
+    "imageUrl": "/roadmaps/backend.png",
+    "jsonUrl": "/project/backend.json",
+    "resourcesPath": "/roadmaps/101-backend/resources.md",
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/backend.pdf",
+    "contentPathsFilePath": "/roadmaps/101-backend/content-paths.json",
+    "relatedRoadmaps": [
+      "python",
+      "java",
+      "golang",
+      "devops",
+      "javascript",
+      "nodejs",
+      "postgresql-dba"
+    ],
+    "id": "backend",
+    "metaPath": "/roadmaps/101-backend/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "DevOps Roadmap: Learn to become a DevOps Engineer or SRE",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "devops roadmap 2022",
+        "sre roadmap 2022",
+        "operations roadmap 2022",
+        "guide to becoming a devops engineer",
+        "devops roadmap",
+        "sre roadmap",
+        "site reliability engineer roadmap",
+        "operations roles",
+        "become devops",
+        "devops skills",
+        "modern devops skills",
+        "devops skills test",
+        "skills for devops",
+        "learn devops",
+        "what is devops",
+        "what is sre",
+        "devops quiz",
+        "devops interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "DevOps",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Learn a Language",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Java",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "PHP",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Python",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "OS Concepts",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "chlidren": [
+            {
+              "name": "Networking",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "POSIX",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Processes",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Sockets",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Virtualization",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Managing Services",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Operating System",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Windows",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            },
+            {
+              "name": "Terminal",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Bash scripting",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Networking Protocols",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "OSI Model",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "SMTP",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "FTP",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Learn a Language",
+        "description": "Even if you’re a beginner the least you would have known is that Web Development is majorly classified into two facets: Frontend Development and Backend Development. And obviously, they both have their respective set of tools and technologies. For instance, when we talk about Frontend Development, there always comes 3 names first and foremost – HTML, CSS, and JavaScript.In the same way, when it comes to Backend Web Development – we primarily require a backend (or you can say server-side) programming language to make the website function along with various other tools & technologies such as databases, frameworks, web servers, etc..",
+        "links": []
+      },
+      {
+        "title": "Java",
+        "description": "Java is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "PHP",
+        "description": "PHP is a general purpose scripting language often used for making dynamic and interactive Web pages. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group and supported by PHP Foundation. PHP supports procedural and object-oriented styles of programming with some elements of functional programming as well.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn PHP",
+            "link": "https://www.w3schools.com/php/"
+          },
+          {
+            "read": true,
+            "id": "PHP - The Right Way",
+            "link": "https://phptherightway.com/"
+          },
+          {
+            "read": false,
+            "id": "PHP for Beginners",
+            "link": "https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC"
+          }
+        ]
+      },
+      {
+        "title": "Python",
+        "description": "Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Getting Started",
+            "link": "https://www.python.org/about/gettingstarted/"
+          },
+          {
+            "read": true,
+            "id": "Automate the Boring Stuff",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "read": true,
+            "id": "Getting Started with Python and InfluxDB",
+            "link": "https://thenewstack.io/getting-started-with-python-and-influxdb/"
+          }
+        ]
+      },
+      {
+        "title": "OS Concepts",
+        "description": "An Operating System is a program that manages a computer’s resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is an operating system?",
+            "link": "https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/"
+          },
+          {
+            "read": false,
+            "id": "Operating Systems: Crash Course Computer Science #18",
+            "link": "https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse"
+          },
+          {
+            "read": false,
+            "id": "Introduction to Operating System",
+            "link": "https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=1"
+          }
+        ]
+      },
+      {
+        "title": "Networking",
+        "description": "Computer networking refers to interconnected computing devices that can exchange data and share resources with each other. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies.This model will assist in constructing an understanding of the linked topics, and help you contextualize the items linked to the Networking, Security, and Protocols node. Higher level networking concepts may be implemented and named differently across cloud providers. Don't let this confuse you - the basics of TCP/IP are useful and used in the same ways across all implementations.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is Computer Networking?",
+            "link": "https://aws.amazon.com/what-is/computer-networking/"
+          },
+          {
+            "read": false,
+            "id": "Full Networking Course",
+            "link": "https://youtu.be/IPvYjXCsTg8"
+          }
+        ]
+      },
+      {
+        "title": "POSIX",
+        "description": "POSIX (Portable Operating System Interface) is a family of standards for maintaining compatibility between operating systems. It describes utilities, APIs, and services that a compliant OS should provide to software, thus making it easier to port programs from one system to another. A practical example: in a Unix-like operating system, there are three *standard streams*, `stdin`, `stdout` and `stderr` - they are I/O connections that you will probably come across when using a terminal, as they manage the flow from the **standard input** (stdin), **standard output** (stdout) and **standard error** (stderr).So, in this case, when we want to interact with any of these streams (through a process, for example), the POSIX operating system API makes it easier - for example, in the `<unistd.h>` C header where the stdin, stderr, and stdout are defined as `STDIN_FILENO`, `STDERR_FILENO` and `STDOUT_FILENO`. POSIX also adds a standard for exit codes, filesystem semantics, and several other command line utility API conventions.",
+        "links": [
+          {
+            "read": true,
+            "id": "POSIX standard by IEEE",
+            "link": "https://pubs.opengroup.org/onlinepubs/9699919799/"
+          },
+          {
+            "read": true,
+            "id": "Summary of some POSIX implementations",
+            "link": "https://unix.stackexchange.com/a/220877"
+          }
+        ]
+      },
+      {
+        "title": "Processes",
+        "description": "A process means program in execution. It generally takes an input, processes it and gives us the appropriate output. `ps` command can be used in linux to get the list of processes running in foreground. Each process will have a unique identifier called **PID**, which can be used to track it or `kill` it through shell. **Types of processes:*** Foreground processes * Background processes",
+        "links": [
+          {
+            "read": true,
+            "id": "Intro to Process Management",
+            "link": "https://www.geeksforgeeks.org/introduction-of-process-management/"
+          },
+          {
+            "read": true,
+            "id": "Process Management in Linux",
+            "link": "https://www.geeksforgeeks.org/process-management-in-linux/"
+          },
+          {
+            "read": true,
+            "id": "Process related commands in Linux",
+            "link": "https://www.geeksforgeeks.org/processes-in-linuxunix/"
+          }
+        ]
+      },
+      {
+        "title": "Virtualization",
+        "description": "Virtualization is the creation of a virtual -- rather than actual -- version of something, such as an operating system (OS), a server, a storage device or network resources. It uses software that simulates hardware functionality to create a virtual system. This practice allows IT organizations to operate multiple operating systems, more than one virtual system and various applications on a single server.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is Virtualization? and its types?",
+            "link": "https://www.techtarget.com/searchitoperations/definition/virtualization"
+          },
+          {
+            "read": true,
+            "id": "What is Hypervisor and VM?",
+            "link": "https://opensource.com/resources/virtualization"
+          },
+          {
+            "read": true,
+            "id": "Containers vs VM",
+            "link": "https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms"
+          }
+        ]
+      },
+      {
+        "title": "Sockets",
+        "description": "Socket is an endpoint of a two way **communication** link between **two different processes** on the network (same or different machines). The socket mechanism provides a means of inter-process communication (IPC) by establishing named contact points between client and server. It is the combination of IP Address and Port Number.",
+        "links": [
+          {
+            "read": true,
+            "id": "What are Sockets?",
+            "link": "https://www.geeksforgeeks.org/socket-in-computer-network/"
+          },
+          {
+            "read": true,
+            "id": "Types of Sockets",
+            "link": "https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm"
+          },
+          {
+            "read": true,
+            "id": "Socket.io Library Bidirectional and low-latency communication for every platform",
+            "link": "https://socket.io/"
+          }
+        ]
+      },
+      {
+        "title": "Managing Servers",
+        "description": "Server management includes all of the monitoring and maintenance required for servers to operate reliably and at optimal performance levels. Server management also involves the management of hardware, software, security, and backups all in service of keeping the IT environment operational and efficient. The primary goals of an effective server management strategy are to:- Minimize server slowdowns and downtime while maximizing reliability.- Build secure server environments.- Scale servers and related operations to meet the needs of the organization over time.",
+        "links": []
+      },
+      {
+        "title": "Operating system",
+        "description": "**An Operating system serves as a bridge between a computer's user and its hardware. An operating system's function is to offer a setting in which a user can conveniently and effectively run programmes.**In simple terms we can say that and Operating System (OS) is an interface between a computer user and computer hardware.An OS permits software programmes to communicate with a computer's hardware, The **kernel** is the name of Piece of software that houses the fundamental elements of **Operating System.**",
+        "links": [
+          {
+            "read": true,
+            "id": "All you need to know about OS.",
+            "link": "https://www.javatpoint.com/os-tutorial"
+          },
+          {
+            "read": true,
+            "id": "Learn Operating Systems",
+            "link": "https://www.tutorialspoint.com/operating_system/os_overview.htm"
+          }
+        ]
+      },
+      {
+        "title": "Windows",
+        "description": "Windows is a graphical user interface (GUI) based operating system developed by Microsoft. It is a hybrid kernel-based proprietary operating system. According to a survey, till April 2022, windows is the most popular operating system in the world with a 75% market share.",
+        "links": [
+          {
+            "read": true,
+            "id": "Windows Official Site",
+            "link": "http://microsoft.com/windows"
+          },
+          {
+            "read": true,
+            "id": "Windows Documentation for Developers",
+            "link": "https://learn.microsoft.com/en-us/windows/"
+          }
+        ]
+      },
+      {
+        "title": "Terminal",
+        "description": "A terminal is simply a text-based interface to the computer, it is use to interact with your computer system via CLI (command line interface)",
+        "links": [
+          {
+            "read": true,
+            "id": "What is CLI?",
+            "link": "https://en.wikipedia.org/wiki/Command-line_interface"
+          }
+        ]
+      },
+      {
+        "title": "Bash scripting",
+        "description": "Bash is a command-line interface shell program used extensively in Linux and macOS. The name Bash is an acronym for Bourne Again Shell, developed in 1989 as a successor to the Bourne Shell.What's a shell? A shell is a computer program that allows you to directly control a computer's operating system (OS) with a graphical user interface (GUI) or command-line interface (CLI). You actually use GUI shells all the time. For example, Windows 10 is based on the Windows shell that allows you to control your OS with a desktop, taskbar, and menus. With a CLI shell like Bash, you type commands into the program to directly control your computer's OS. Opening up the terminal on your Mac or command line in Linux will look similar to consoles and integrated development environments (IDEs) for other programming languages such as R, Ruby, or Python. You can type commands directly in the command line or run Bash scripts to perform longer and more complex tasks.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Shell Scripting Tutorial",
+            "link": "https://www.shellscript.sh/"
+          },
+          {
+            "read": true,
+            "id": "Writing Shell Scripts",
+            "link": "https://linuxcommand.org/lc3_writing_shell_scripts.php"
+          }
+        ]
+      },
+      {
+        "title": "Networking Protocols",
+        "description": "A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design. Network protocols are the reason you can easily communicate with people all over the world, and thus play a critical role in modern digital communications.",
+        "links": [
+          {
+            "read": true,
+            "id": "What Is a Network Protocol, and How Does It Work?",
+            "link": "https://www.comptia.org/content/guides/what-is-a-network-protocol"
+          }
+        ]
+      },
+      {
+        "title": "SMTP",
+        "description": "Email is emerging as one of the most valuable services on the internet today. Most internet systems use SMTP as a method to transfer mail from one user to another. SMTP is a push protocol and is used to send the mail whereas POP (post office protocol) or IMAP (internet message access protocol) are used to retrieve those emails at the receiver’s side.SMTP is an application layer protocol. The client who wants to send the mail opens a TCP connection to the SMTP server and then sends the mail across the connection. The SMTP server is an always-on listening mode. As soon as it listens for a TCP connection from any client, the SMTP process initiates a connection through port 25. After successfully establishing a TCP connection the client process sends the mail instantly.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is Simple Mail Transfer Protocol (SMTP)?",
+            "link": "https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/"
+          }
+        ]
+      },
+      {
+        "title": "OSI Model",
+        "description": "Open Systems Interconnection (OSI) model is a **conceptual** model consists of 7 layers, that was proposed to standardize the communication between devices over the network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is OSI Model?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/"
+          }
+        ]
+      },
+      {
+        "title": "FTP",
+        "description": "File Transfer Protocol(FTP) is `TCP/IP` based application layer communication protocol that helps transferring files between local and remote file systems over the network. To transfer a file, 2 TCP connections(control connection and data connection) are used in parallel.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is FTP?",
+            "link": "https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"How DevOps delivery value measured?",
+          "sample":""
+      },
+      {
+          "question":"How to connect VSCODE to azure DevOps?",
+          "sample":""
+      }
+  
+  ],
+    "title": "DevOps Roadmap",
+    "description": "Step by step guide for DevOps, SRE or any other Operations Role in 2022",
+    "featuredTitle": "DevOps",
+    "type": "role",
+    "featuredDescription": "Step by step guide for DevOps or operations role in 2022",
+    "featured": true,
+    "imageUrl": "/roadmaps/devops.png",
+    "jsonUrl": "/project/devops.json",
+    "resourcesPath": "/roadmaps/102-devops/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/devops.pdf",
+    "contentPathsFilePath": "/roadmaps/102-devops/content-paths.json",
+    "relatedRoadmaps": [
+      "backend",
+      "python",
+      "java",
+      "golang",
+      "javascript",
+      "nodejs"
+    ],
+    "id": "devops",
+    "metaPath": "/roadmaps/102-devops/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Computer Science Roadmap: Curriculum for the self taught developer",
+      "description": "Computer Science study plan with free resources for the self-taught and bootcamp grads wanting to learn Computer Science.",
+      "keywords": [
+        "computer science roadmap",
+        "computer science",
+        "computer science roadmap 2022",
+        "guide to computer science",
+        "software engineer roadmap",
+        "software engineer roadmap 2022",
+        "self-taught computer science roadmap",
+        "computer science skills",
+        "computer science skills test",
+        "cs roadmap",
+        "computer science curriculum",
+        "cs curriculum",
+        "skills for computer science",
+        "what is computer science",
+        "computer science quiz",
+        "computer science interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Computer Science",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Pick a Language",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Java",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Python",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "C",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Data Structures",
+          "rx": "-60",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Graph",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Heap",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Array",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Stack",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Queue",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Tree",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Asymptotic Notation",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "165.3",
+          "children": [
+            {
+              "name": "Big O",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Big Theta",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Big Ohemga",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Common Algorithms",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "165.3",
+          "children": [
+            {
+              "name": "Sort",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "System Design",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Caching",
+              "rx": "-70",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Clustering",
+              "rx": "-70",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Pick a Language",
+        "description": "Even if you’re a beginner the least you would have known is that Web Development is majorly classified into two facets: Frontend Development and Backend Development. And obviously, they both have their respective set of tools and technologies. For instance, when we talk about Frontend Development, there always comes 3 names first and foremost – HTML, CSS, and JavaScript.In the same way, when it comes to Backend Web Development – we primarily require a backend (or you can say server-side) programming language to make the website function along with various other tools & technologies such as databases, frameworks, web servers, etc..",
+        "links": []
+      },
+      {
+        "title": "Java",
+        "description": "Java is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "C",
+        "description": "C is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "Python",
+        "description": "Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Getting Started",
+            "link": "https://www.python.org/about/gettingstarted/"
+          },
+          {
+            "read": true,
+            "id": "Automate the Boring Stuff",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "read": true,
+            "id": "Getting Started with Python and InfluxDB",
+            "link": "https://thenewstack.io/getting-started-with-python-and-influxdb/"
+          }
+        ]
+      },
+      {
+        "title": "Data Structures",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "Graph",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Heap",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "Array",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Stack",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "Queue",
+        "description": "As a backend developer, you may not need to have proficient knowledge of the frontend stack but you should at least have some basic understanding of HTML, CSS and JavaScript.",
+        "links": []
+      },
+      {
+        "title": "Tree",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "Asymptotic Notation",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "Big O",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Big Theta",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Big Ohemaga",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Sort",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Common Algorithms",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "System Design",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Caching",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": []
+      },
+      {
+        "title": "Clustering",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Implement a Queue in C Language",
+          "sample":""
+      }
+  ],
+    "title": "Computer Science",
+    "description": "Computer Science curriculum with free resources for a self-taught developer.",
+    "featuredTitle": "Computer Science",
+    "type": "tool",
+    "featuredDescription": "Curriculum with free resources for a self-taught developer.",
+    "isTextHeavy": false,
+    "isNew": true,
+    "isCommunity": false,
+    "featured": true,
+    "jsonUrl": "/project/computer-science.json",
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/computer-science.pdf",
+    "relatedRoadmaps": [
+      "frontend",
+      "backend",
+      "devops",
+      "software-design-architecture"
+    ],
+    "contentPathsFilePath": "/roadmaps/103-computer-science/content-paths.json",
+    "id": "computer-science",
+    "metaPath": "/roadmaps/103-computer-science/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "React Developer Roadmap: Learn to become a React developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "react roadmap 2022",
+        "react developer roadmap 2022",
+        "guide to becoming a react developer",
+        "react developer roadmap",
+        "react roadmap",
+        "become react developer",
+        "react developer skills",
+        "react skills test",
+        "skills for react development",
+        "learn react development",
+        "what is react",
+        "react quiz",
+        "react interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "React",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Fundamental Topics",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Component Life Cycle",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Lists and Keys",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Hooks",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Advanced Topics",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Refs",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Render Props",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "High Order Components",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "165.3"
+            }
+          ]
+        },
+        {
+          "name": "Ecosystem",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Routers",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "State Management",
+              "rx": "-60",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "State",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3"
+                },
+                {
+                  "name": "Redux",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Fundamental Topics",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "Component Life Cycle",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Lists and Keys",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "Hooks",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Topics",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "Refs",
+        "description": "As a backend developer, you may not need to have proficient knowledge of the frontend stack but you should at least have some basic understanding of HTML, CSS and JavaScript.",
+        "links": []
+      },
+      {
+        "title": "Render Props",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "High Order Components",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "Ecosystem",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Routers",
+        "description": "Even if you’re a beginner the least you would have known is that Web Development is majorly classified into two facets: Frontend Development and Backend Development. And obviously, they both have their respective set of tools and technologies. For instance, when we talk about Frontend Development, there always comes 3 names first and foremost – HTML, CSS, and JavaScript.In the same way, when it comes to Backend Web Development – we primarily require a backend (or you can say server-side) programming language to make the website function along with various other tools & technologies such as databases, frameworks, web servers, etc..",
+        "links": []
+      },
+      {
+        "title": "State Management",
+        "description": "Java is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "State",
+        "description": "PHP is a general purpose scripting language often used for making dynamic and interactive Web pages. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group and supported by PHP Foundation. PHP supports procedural and object-oriented styles of programming with some elements of functional programming as well.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn PHP",
+            "link": "https://www.w3schools.com/php/"
+          },
+          {
+            "read": true,
+            "id": "PHP - The Right Way",
+            "link": "https://phptherightway.com/"
+          },
+          {
+            "read": false,
+            "id": "PHP for Beginners",
+            "link": "https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC"
+          }
+        ]
+      },
+      {
+        "title": "Redux",
+        "description": "Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Getting Started",
+            "link": "https://www.python.org/about/gettingstarted/"
+          },
+          {
+            "read": true,
+            "id": "Automate the Boring Stuff",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "read": true,
+            "id": "Getting Started with Python and InfluxDB",
+            "link": "https://thenewstack.io/getting-started-with-python-and-influxdb/"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Create a Catalog Page",
+          "sample":""
+      }
+  
+  ],
+    "title": "React Developer",
+    "description": "Everything that is there to learn about React and the ecosystem in 2022.",
+    "featuredTitle": "React",
+    "type": "tool",
+    "featuredDescription": "Step by step guide to become a React Developer in 2022",
+    "isTextHeavy": false,
+    "isCommunity": false,
+    "featured": true,
+    "resourcesPath": "/roadmaps/103-react/resources.md",
+    "jsonUrl": "/project/react.json",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/react.pdf",
+    "contentPathsFilePath": "/roadmaps/103-react/content-paths.json",
+    "relatedRoadmaps": [
+      "frontend",
+      "javascript",
+      "angular",
+      "vue",
+      "nodejs",
+      "design-system"
+    ],
+    "id": "react",
+    "metaPath": "/roadmaps/103-react/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "JavaScript Developer Roadmap: Step by step guide to learn JavaScript",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for javascript development. Learn to become a modern JavaScript developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "javascript guide 2022",
+        "learn javascript",
+        "step by step javascript guide",
+        "javascript roadmap 2022",
+        "javascript developer roadmap 2022",
+        "guide to becoming a javascript developer",
+        "javascript developer roadmap",
+        "javascript roadmap",
+        "become javascript developer",
+        "javascript developer skills",
+        "javascript skills test",
+        "skills for javascript development",
+        "learn javascript development",
+        "what is javascript",
+        "javascript quiz",
+        "javascript interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "JavaScript",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Variables",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Variable Naming",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Variable Scope",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Data Types",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Object Prototype",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Typecasting",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Type Conversion",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Data Structures",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Index Collections",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Variables",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "Variable Naming",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Variable Scope",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "Data Types",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Object Prototype",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "Typecasting",
+        "description": "As a backend developer, you may not need to have proficient knowledge of the frontend stack but you should at least have some basic understanding of HTML, CSS and JavaScript.",
+        "links": []
+      },
+      {
+        "title": "Type Conversion",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "Data Structures",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "Index Collections",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Given a string, reverse each word in the sentence",
+          "sample":"Welcome to this Javascript Guide!; Output: emocleW ot siht tpircsavaJ !ediuG"
+      }
+  
+  ],
+    "title": "JavaScript Roadmap",
+    "description": "Step by step guide to learn JavaScript in 2022",
+    "featuredTitle": "JavaScript",
+    "type": "tool",
+    "featuredDescription": "Step by step guide to learn JavaScript in 2022",
+    "isTextHeavy": false,
+    "isCommunity": false,
+    "isNew": true,
+    "featured": true,
+    "jsonUrl": "/project/javascript.json",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/javascript.pdf",
+    "contentPathsFilePath": "/roadmaps/106-javascript/content-paths.json",
+    "relatedRoadmaps": [
+      "frontend",
+      "backend",
+      "javascript",
+      "react",
+      "angular",
+      "vue",
+      "nodejs"
+    ],
+    "id": "javascript",
+    "metaPath": "/roadmaps/106-javascript/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Android Developer Roadmap: Learn to become an Android developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for android development. Learn to become a modern Android developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming an android developer",
+        "android developer roadmap",
+        "android roadmap",
+        "become android developer",
+        "android developer skills",
+        "android skills test",
+        "skills for android development",
+        "learn android development",
+        "what is android",
+        "android quiz",
+        "android interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Android",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Pick a Language",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Java",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Kotlin",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Fundamentals",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Version Control",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Installation",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "DS & Algorithms",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Gradle",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Repo Hosting",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Github",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Build an App",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Lifecycles",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Pick up a language",
+        "description": "For the languages, you can develop android apps either by using Kotlin or Java.",
+        "links": []
+      },
+      {
+        "title": "Java",
+        "description": "Java is general-purpose language, primarily used for Internet-based applications.It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "read": true,
+            "id": "Codeacademy - Free Course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "read": false,
+            "id": "Java Crash Course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "title": "Kotlin",
+        "description": "The Kotlin Multiplatform technology is designed to simplify the development of cross-platform projects. It reduces time spent writing and maintaining the same code for different platforms while retaining the flexibility and benefits of native programming.",
+        "links": [
+          {
+            "read": true,
+            "id": "Kotlin Website",
+            "link": "https://kotlinlang.org/"
+          }
+        ]
+      },
+      {
+        "title": "Fundamentals",
+        "description": "We have also listed down some free resources which you can use for the items listed in the image above. If you have some better ones, please do suggest. Also, you don't need to go through all of them, just go through them and pick what you like.",
+        "links": [
+          {
+            "read": true,
+            "id": "Android Studio",
+            "link": "https://developer.android.com/studio"
+          }
+        ]
+      },
+      {
+        "title": "Version Control",
+        "description": "Version control systems record your changes to the codebase and allow you to recall specific versions later. There are multiple Version Control Systems available but is the most common one these days.",
+        "links": [
+          {
+            "read": true,
+            "id": "Version Control with Git",
+            "link": "https://www.udacity.com/course/version-control-with-git--ud123"
+          }
+        ]
+      },
+      {
+        "title": "Installation",
+        "description": "Install the Android Studio",
+        "links": [
+          {
+            "read": true,
+            "id": "Android Studio",
+            "link": "https://developer.android.com/studio"
+          }
+        ]
+      },
+      {
+        "title": "DS & Algorithms",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Data Structures and Algorithms",
+            "link": "https://www.studytonight.com/data-structures/introduction-to-data-structures"
+          }
+        ]
+      },
+      {
+        "title": "Gradle",
+        "description": "Android Studio comes with a working installation of Gradle, so you don’t need to install Gradle separately in that case",
+        "links": [
+          {
+            "read": true,
+            "id": "Gradle",
+            "link": "https://docs.gradle.org/current/userguide/what_is_gradle.html"
+          },
+          {
+            "read": true,
+            "id": "Getting started with Gradle",
+            "link": "https://docs.gradle.org/current/userguide/getting_started.html"
+          }
+        ]
+      },
+      {
+        "title": "Repo Hosting",
+        "description": "Repository hosting services are third-party web applications that wrap and enhance a version control system. You cannot fully utilize a repository hosting service without using an underlying version control system.",
+        "links": [
+          {
+            "read": true,
+            "id": "Repo Hosting",
+            "link": "https://bitbucket.org/product/code-repository"
+          }
+        ]
+      },
+      {
+        "title": "Github",
+        "description": "Github provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project",
+        "links": [
+          {
+            "read": true,
+            "id": "Official Github Website",
+            "link": "https://github.com/"
+          }
+        ]
+      },
+      {
+        "title": "Build an App",
+        "description": "Here is the list of items that you are going to need when developing Android applications. Please note that, this is an exhaustive list, and you don't need to know it all from the get-go. Get an idea of the items listed, and just start building some apps and keep the items listed in the back of your mind and have a deep dive when using them. ",
+        "links": [
+          {
+            "read": true,
+            "id": "Using Activities and Activity Life Cycles",
+            "link": "https://developer.android.com/guide/components/activities/intro-activities"
+          },
+          {
+            "read": true,
+            "id": "Building Flexible Interfaces using Fragments",
+            "link": "https://developer.android.com/guide/components/fragments"
+          },
+          {
+            "read": true,
+            "id": "Handling App Configurations",
+            "link": "https://developer.android.com/work/managed-configurations"
+          },
+          {
+            "read": true,
+            "id": "Data Privacy",
+            "link": "https://www.raywenderlich.com/6901838-data-privacy-for-android"
+          }
+        ]
+      },
+      {
+        "title": "Lifecycles",
+        "description": "Here is the list of items that you are going to need when developing Android applications. Please note that, this is an exhaustive list, and you don't need to know it all from the get-go. Get an idea of the items listed, and just start building some apps and keep the items listed in the back of your mind and have a deep dive when using them. ",
+        "links": [
+          {
+            "read": true,
+            "id": "Using Activities and Activity Life Cycles",
+            "link": "https://developer.android.com/guide/components/activities/intro-activities"
+          },
+          {
+            "read": true,
+            "id": "Dependency Injection",
+            "link": "https://developer.android.com/training/dependency-injection)"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Write a program find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five.",
+          "sample":"Input: [19, 19, 15, 5, 3, 5, 5, 2]; Output: True"
+      },
+      {
+          "question":"Write a program that accept a list of integers and check the length and the fifth element. Return true if the length of the list is 8 and fifth element occurs thrice in the said list.",
+          "sample":"Input: [19, 19, 15, 5, 5, 5, 1, 2]; Output: True"
+      },
+      {
+          "question":"Write a Python program that accept an integer test whether an integer greater than 4^4 and which is 4 mod 34.",
+          "sample":"Input: 922; Output: True"
+      }
+  
+  ],
+    "title": "Android Developer",
+    "description": "Step by step guide to becoming an Android developer in 2022",
+    "featuredTitle": "Android",
+    "type": "role",
+    "featuredDescription": "Step by step guide to becoming an Android Developer in 2022",
+    "isTextHeavy": true,
+    "isCommunity": false,
+    "featured": true,
+    "jsonUrl": "/project/android.json",
+    "landingPath": "/roadmaps/107-android/landscape.md",
+    "resourcesPath": "/roadmaps/107-android/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "relatedRoadmaps": [
+      "frontend",
+      "javascript",
+      "react",
+      "nodejs"
+    ],
+    "id": "android",
+    "metaPath": "/roadmaps/107-android/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Node.js Developer Roadmap: Learn to become a modern node.js developer",
+      "description": "Learn to become a modern node.js developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern node.js development.",
+      "keywords": [
+        "node.js roadmap 2022",
+        "nodejs roadmap 2022",
+        "node.js roadmap 2022",
+        "nodejs roadmap 2022",
+        "node.js developer roadmap 2022",
+        "nodejs developer roadmap 2022",
+        "guide to becoming a developer",
+        "guide to becoming a node.js developer",
+        "guid to becoming a node.js developer",
+        "node.js developer",
+        "nodejs developer",
+        "node.js engineer",
+        "nodejs engineer",
+        "node.js skills",
+        "nodejs skills",
+        "node.js development",
+        "nodejs development",
+        "node.js developer",
+        "nodejs developer",
+        "node.js development skills",
+        "nodejs development skills",
+        "node.js development skills test",
+        "nodejs development skills test",
+        "node.js roadmap",
+        "nodejs roadmap",
+        "node.js engineer roadmap",
+        "nodejs engineer roadmap",
+        "node.js developer roadmap",
+        "nodejs developer roadmap",
+        "become a node.js developer",
+        "become a node.js developer",
+        "node.js developer career path",
+        "nodejs developer career path",
+        "node.js developer",
+        "nodejs developer",
+        "modern node.js developer",
+        "modern node.js developer",
+        "node developer",
+        "skills for node.js development",
+        "skills for nodejs development",
+        "learn node.js development",
+        "lear node.js development",
+        "node.js developer quiz",
+        "nodejs developer quiz",
+        "node.js developer interview questions",
+        "nodejs developer interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Node JS",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Variables",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Variable Naming",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Variable Scope",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Error Handling",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Type of Errors",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Modules",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Custom Modules",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "npm",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Installed Packages",
+              "rx": "-70",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Running Scripts",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Variables",
+        "description": "The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Internet Explained",
+            "link": "https://www.vox.com/2014/6/16/18076282/the-internet"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work?",
+            "link": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+          },
+          {
+            "read": true,
+            "id": "How Does the Internet Work? MDN Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+          },
+          {
+            "read": true,
+            "id": "Introduction to Internet",
+            "link": "/guides/what-is-internet"
+          },
+          {
+            "read": false,
+            "id": "How does the Internet work?",
+            "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+          }
+        ]
+      },
+      {
+        "title": "Variable Naming",
+        "description": "HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical Client-Server model with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is HTTP?",
+            "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+          },
+          {
+            "read": true,
+            "id": "How HTTPS Works ...in a comic!",
+            "link": "https://howhttps.works"
+          },
+          {
+            "read": true,
+            "id": "An overview of HTTP",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+          },
+          {
+            "read": false,
+            "id": "HTTP Crash Course & Exploration",
+            "link": "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+          }
+        ]
+      },
+      {
+        "title": "Variable Scope",
+        "description": "A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.",
+        "links": [
+          {
+            "read": true,
+            "id": "How Browsers Work",
+            "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+          },
+          {
+            "read": true,
+            "id": "Role of Rendering Engine in Browsers",
+            "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+          },
+          {
+            "read": false,
+            "id": "How Do Web Browsers Work?",
+            "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+          }
+        ]
+      },
+      {
+        "title": "Error Handling",
+        "description": "The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is DNS?",
+            "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+          },
+          {
+            "read": true,
+            "id": "Mess with DNS - DNS Playground",
+            "link": "https://messwithdns.net/"
+          },
+          {
+            "read": true,
+            "id": "How DNS works (comic)",
+            "link": "https://howdns.works/"
+          },
+          {
+            "read": false,
+            "id": "DNS and How does it Work?",
+            "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+          }
+        ]
+      },
+      {
+        "title": "Types of Errors",
+        "description": "Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.",
+        "links": [
+          {
+            "read": false,
+            "id": "What Is Web Hosting?",
+            "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+          },
+          {
+            "read": false,
+            "id": "Different Types of Web Hosting",
+            "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+          },
+          {
+            "read": false,
+            "id": "Where to Host a Fullstack Project on a Budget",
+            "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+          }
+        ]
+      },
+      {
+        "title": "Modules",
+        "description": "As a backend developer, you may not need to have proficient knowledge of the frontend stack but you should at least have some basic understanding of HTML, CSS and JavaScript.",
+        "links": []
+      },
+      {
+        "title": "Custom Modules",
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn HTML",
+            "link": "https://www.w3schools.com/html/html_intro.asp"
+          },
+          {
+            "read": true,
+            "id": "htmlreference.io: All HTML elements at a glance",
+            "link": "https://htmlreference.io/"
+          },
+          {
+            "read": true,
+            "id": "HTML For Beginners The Easy Way",
+            "link": "https://html.com"
+          },
+          {
+            "read": true,
+            "id": "Web Development Basics",
+            "link": "https://www.internetingishard.com/html-and-css/"
+          },
+          {
+            "read": false,
+            "id": "HTML Full Course - Build a Website Tutorial",
+            "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+          }
+        ]
+      },
+      {
+        "title": "npm",
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "links": [
+          {
+            "read": true,
+            "id": "W3Schools — Learn CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "read": false,
+            "id": "CSS Masterclass - Tutorial & Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=FqmB-Zj2-PA"
+          }
+        ]
+      },
+      {
+        "title": "Installed Packages",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      },
+      {
+        "title": "Running Scripts",
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "links": [
+          {
+            "read": true,
+            "id": "JavaScript Tutorial",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "read": true,
+            "id": "The Modern JavaScript Tutorial",
+            "link": "https://javascript.info/"
+          },
+          {
+            "read": false,
+            "id": "JavaScript Crash Course for Beginners",
+            "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"How can we use async await in node.js",
+          "sample":""
+      }
+  
+  ],
+    "title": "Node.js Developer",
+    "description": "Step by step guide to becoming a modern Node.js developer in 2022",
+    "featuredTitle": "Node.js",
+    "featuredDescription": "Step by step guide to becoming a Node.js developer in 2022",
+    "type": "tool",
+    "isNew": true,
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "featured": true,
+    "imageUrl": "/roadmaps/nodejs.png",
+    "jsonUrl": "/project/nodejs.json",
+    "pdfUrl": "/pdfs/nodejs.pdf",
+    "contentPathsFilePath": "/roadmaps/107-nodejs/content-paths.json",
+    "relatedRoadmaps": [
+      "frontend",
+      "backend",
+      "javascript",
+      "react",
+      "angular",
+      "vue"
+    ],
+    "id": "nodejs",
+    "metaPath": "/roadmaps/107-nodejs/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Learn to become a modern Python developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for python development. Learn to become a modern Python developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming an python developer",
+        "python developer roadmap",
+        "python roadmap",
+        "become python developer",
+        "python developer skills",
+        "python skills test",
+        "skills for python development",
+        "learn python development",
+        "what is python",
+        "python quiz",
+        "python interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "Python",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "OOP",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Classes",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Inheritance",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Methods, Dunder",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "DataStructures & Algorithms",
+          "rx": "-120",
+          "ry": "-20",
+          "width": "175.3",
+          "children": [
+            {
+              "name": "Arrays and LinkedLists",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            },
+            {
+              "name": "Heaps,Stacks & Queues",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            },
+            {
+              "name": "Binary Search Trees",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            }
+          ]
+        },
+        {
+          "name": "Adv Topics",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children":[
+            {
+              "name":"Lambdas",
+              "rx":"-70",
+              "ry":"-20",
+              "width":"145.3"
+            }
+          ]
+        },
+        {
+          "name": "Testing your Apps",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "OOP",
+        "description": "In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.",
+        "links": [
+          {
+            "read": true,
+            "id": "Object Oriented Programming in Python",
+            "link": "https://realpython.com/python3-object-oriented-programming/"
+          },
+          {
+            "read": true,
+            "id": "Python OOP Concepts",
+            "link": "https://www.geeksforgeeks.org/python-oops-concepts/"
+          },
+          {
+            "read": false,
+            "id": "OOP in Python One Shot",
+            "link": "https://www.youtube.com/watch?v=Ej_02ICOIgs"
+          },
+          {
+            "read": false,
+            "id": "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+            "link": "https://www.youtube.com/watch?v=-pEs-Bss8Wc/"
+          }
+        ]
+      },
+      {
+        "title": "Classes",
+        "description": "A class is a user-defined blueprint or prototype from which objects are created. Classes provide a means of bundling data and functionality together. Creating a new class creates a new type of object, allowing new instances of that type to be made. Each class instance can have attributes attached to it for maintaining its state. Class instances can also have methods (defined by their class) for modifying their state.",
+        "links": [
+          {
+            "read": true,
+            "id": "Classes in Python",
+            "link": "https://docs.python.org/3/tutorial/classes.html"
+          },
+          {
+            "read": true,
+            "id": "Python Classes and Objects",
+            "link": "https://www.geeksforgeeks.org/python-classes-and-objects/"
+          },
+          {
+            "read": true,
+            "id": "Python Classes and Objects",
+            "link": "https://www.w3schools.com/python/python_classes.asp"
+          }
+        ]
+      },
+      {
+        "title": "Inheritance",
+        "description": "Inheritance allows us to define a class that inherits all the methods and properties from another class.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Inheritance",
+            "link": "https://www.w3schools.com/python/python_inheritance.asp"
+          },
+          {
+            "read": true,
+            "id": "Inheritance in Python",
+            "link": "https://www.javatpoint.com/inheritance-in-python"
+          }
+        ]
+      },
+      {
+        "title": "Methods,Dunder",
+        "description": "A method in python is somewhat similar to a function, except it is associated with object/classes. Methods in python are very similar to functions except for two major differences. The method is implicitly used for an object for which it is called. The method is accessible to data that is contained within the class. Dunder or magic methods in Python are the methods having two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. Few examples for magic methods are: __init__, __add__, __len__, __repr__ etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "Method vs Function in Python",
+            "link": "https://www.tutorialspoint.com/difference-between-method-and-function-in-python"
+          },
+          {
+            "read": true,
+            "id": "Dunder or magic methods in Python",
+            "link": "https://www.geeksforgeeks.org/dunder-magic-methods-python/"
+          },
+          {
+            "read": true,
+            "id": "Python - Magic or Dunder Methods",
+            "link": "https://www.tutorialsteacher.com/python/magic-methods-in-python"
+          }
+        ]
+      },
+      {
+        "title": "Adv Topics",
+        "description": "Now that you have covered the basics of Python, let's move on to some advanced topics. In this section, you will be learning about things like OOP, Lambdas, Decorators, Iterators, Modules, and more.",
+        "links": []
+      },
+      {
+        "title": "Lambdas",
+        "description": "Python Lambda Functions are anonymous function means that the function is without a name. As we already know that the def keyword is used to define a normal function in Python. Similarly, the lambda keyword is used to define an anonymous function in Python.",
+        "links": [
+          {
+            "read": true,
+            "id": "Python Lambda Functions",
+            "link": "https://www.w3schools.com/python/python_lambda.asp"
+          },
+          {
+            "read": true,
+            "id": "Lambdas in Python",
+            "link": "https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/"
+          }
+        ]
+      },
+      {
+        "title": "Testing your Apps",
+        "description": "A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.",
+        "links": [
+          {
+            "read": true,
+            "id": "What is Software Testing?",
+            "link": "https://www.guru99.com/software-testing-introduction-importance.html"
+          },
+          {
+            "read": true,
+            "id": "Testing Pyramid",
+            "link": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation"
+          }
+        ]
+      },
+      {
+        "title": "Data Structures",
+        "description": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+        "links": [
+          {
+            "read": true,
+            "id": "Learn DS & Algorithms",
+            "link": "https://www.programiz.com/dsa"
+          },
+          {
+            "read": false,
+            "id": "Data Structures Illustrated",
+            "link": "https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY"
+          }
+        ]
+      },
+      {
+        "title": "Arrays and LinkedLists",
+        "description": "Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index. Linked lists are less rigid in their storage structure and elements are usually not stored in contiguous locations, hence they need to be stored with additional tags giving a reference to the next element. This difference in the data storage scheme decides which data structure would be more suitable for a given situation.",
+        "links": [
+          {
+            "read": true,
+            "id": "Linked Lists vs Arrays",
+            "link": "https://www.geeksforgeeks.org/linked-list-vs-array/"
+          },
+          {
+            "read": false,
+            "id": "Linked List Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=odW9FU8jPRQ"
+          }
+        ]
+      },
+      {
+        "title": "heaps,Stacks & Queues",
+        "description": "**Stacks:** Operations are performed LIFO (last in, first out), which means that the last element added will be the first one removed. A stack can be implemented using an array or a linked list. If the stack runs out of memory, it’s called a stack overflow.**Queue:** Operations are performed FIFO (first in, first out), which means that the first element added will be the first one removed. A queue can be implemented using an array.**Heap:** A tree-based data structure in which the value of a parent node is ordered in a certain way with respect to the value of its child node(s). A heap can be either a min heap (the value of a parent node is less than or equal to the value of its children) or a max heap (the value of a parent node is greater than or equal to the value of its children).",
+        "links": [
+          {
+            "read": true,
+            "id": "Heaps, Stacks, Queues",
+            "link": "https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues"
+          },
+          {
+            "read": false,
+            "id": "Queue Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=mDCi1lXd9hc"
+          }
+        ]
+      },
+      {
+        "title": "Binary Search Tree",
+        "description": "A binary search tree, also called an ordered or sorted binary tree, is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree",
+        "links": [
+          {
+            "read": false,
+            "id": "Tree Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+          },
+          {
+            "read": true,
+            "id": "How to Implement Binary Search Tree in Python",
+            "link": "https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Write a program find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five.",
+          "sample":"Input: [19, 19, 15, 5, 3, 5, 5, 2]; Output: True"
+      },
+      {
+          "question":"Write a program that accept a list of integers and check the length and the fifth element. Return true if the length of the list is 8 and fifth element occurs thrice in the said list.",
+          "sample":"Input: [19, 19, 15, 5, 5, 5, 1, 2]; Output: True"
+      },
+      {
+          "question":"Write a Python program that accept an integer test whether an integer greater than 4^4 and which is 4 mod 34.",
+          "sample":"Input: 922; Output: True"
+      }
+  
+  ],
+    "title": "Python Developer",
+    "description": "Step by step guide to becoming a Python developer in 2022",
+    "featuredTitle": "Python",
+    "type": "tool",
+    "featuredDescription": "Step by step guide to becoming a Python Developer in 2022",
+    "isTextHeavy": true,
+    "isCommunity": false,
+    "featured": true,
+    "jsonUrl": "/project/python.json",
+    "resourcesPath": "/roadmaps/108-python/resources.md",
+    "pdfUrl": "/pdfs/python.pdf",
+    "versions": [
+      "latest"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "contentPathsFilePath": "/roadmaps/108-python/content-paths.json",
+    "relatedRoadmaps": [
+      "backend",
+      "devops",
+      "golang",
+      "java",
+      "javascript",
+      "nodejs"
+    ],
+    "id": "python",
+    "metaPath": "/roadmaps/108-python/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Learn to become a modern Java developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for java development. Learn to become a modern Java developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a developer",
+        "guide to becoming a java developer",
+        "java developer",
+        "java engineer",
+        "java skills",
+        "guide to java",
+        "java roadmap",
+        "java skills",
+        "java skills test",
+        "skills for java",
+        "cloud development",
+        "what is java",
+        "java quiz",
+        "java interview questions",
+        "java engineer roadmap",
+        "java developer roadmap",
+        "become a java developer",
+        "java developer career path",
+        "java developer",
+        "modern java developer"
+      ]
+    },
+    "nodes": {
+      "name": "Java",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Fundamentals",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children":[
+            {
+              "name": "Data Structures",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Packages",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "OOP",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": []
+        },
+        {
+          "name": "DataStructures & Algorithms",
+          "rx": "-120",
+          "ry": "-20",
+          "width": "175.3",
+          "children": [
+            {
+              "name": "Arrays and LinkedLists",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            },
+            {
+              "name": "Heaps,Stacks & Queues",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            },
+            {
+              "name": "Binary Search Trees",
+              "rx": "-110",
+              "ry": "-20",
+              "width": "175.3"
+            }
+          ]
+        },
+        {
+          "name": "Web Frameworks",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Spring",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Spring Boot",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Logging Frameworks",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "TinyLog",
+              "rx": "-40",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Testing your Apps",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Fundamentals",
+        "description": "Java is a programming language and computing platform first released by Sun Microsystems in 1995. Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc. Learn about the fundamentals of Java such as basic syntax, data types, variables, conditionals, functions, data structures, packages, etc.",
+        "links": [
+          {
+            "read": true,
+            "id": "Java Basics - W3Schools",
+            "link": "https://www.w3schools.com/java/"
+          },
+          {
+            "read": false,
+            "id": "Java Tutorial for Beginners",
+            "link": "https://youtu.be/eIrMbAQSU34"
+          },
+          {
+            "read": false,
+            "id": "Java + DSA + Interview Preparation Course (For beginners)",
+            "link": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+          }
+        ]
+      },
+      {
+        "title": "Data Structures",
+        "description": "As the name indicates itself, a **Data Structure** is a way of organizing the data in the **memory** so that it can be used efficiently. Some common data structures are array, linked list, stack, hashtable, queue, tree, heap, and graph. Array allocates continuous memory for homogeneous data. Linked List stores data in nodes with references. Stack follows Last In First Out principle. Queue follows First In First Out principle",
+        "links": [
+          {
+            "read": true,
+            "id": "What are Data Structures?",
+            "link": "https://www.geeksforgeeks.org/data-structures"
+          },
+          {
+            "read": false,
+            "id": "Data Structures Illustrated",
+            "link": "https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY"
+          }
+        ]
+      },
+      {
+        "title": "OOP",
+        "description": "Object-oriented programming is a core of Java Programming, which is used for designing a program using classes and objects. This can also be characterized as data controlling for accessing the code.",
+        "links": [
+          {
+            "read": true,
+            "id": "OOPs Concept in Java",
+            "link": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
+          },
+          {
+            "read": true,
+            "id": "Java OOPs Concepts",
+            "link": "https://www.javatpoint.com/java-oops-concepts"
+          },
+          {
+            "read": false,
+            "id": "Java OOPs Concepts",
+            "link": "https://www.youtube.com/watch?v=6T_HgnjoYwM"
+          }
+        ]
+      },
+      {
+        "title": "Web Frameworks",
+        "description": "Frameworks are tools with pre-written code, that act as a template or skeleton, which can be reused to create an application by simply filling with your code as needed which enables developers to program their application with no overhead of creating each line of code again and again from scratch.",
+        "links": []
+      },
+      {
+        "title": "Spring",
+        "description": "Spring is a powerful open-source Java platform (framework), that is used to create and maintain web applications.",
+        "links": [
+          {
+            "read": true,
+            "id": "Quickstart guide",
+            "link": "https://spring.io/quickstart"
+          },
+          {
+            "read": true,
+            "id": "Different Spring tutorials",
+            "link": "https://www.baeldung.com/spring-boot"
+          }
+        ]
+      },
+      {
+        "title": "Spring Boot",
+        "description": "Spring Boot is an open source, microservice-based Java web framework. The Spring Boot framework creates a fully production-ready environment that is completely configurable using its prebuilt code within its codebase. The microservice architecture provides developers with a fully enclosed application, including embedded application servers.",
+        "links": [
+          {
+            "read":true,
+            "id":"What is Spring Boot?",
+            "link":"https://www.ibm.com/cloud/learn/java-spring-boot"
+          },
+          {
+            "read":true,
+            "id":"Spring Boot Tutorial",
+            "link":"https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html"
+          }
+        ]
+      },
+      {
+        "title": "Testing your Apps",
+        "description": "A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.",
+        "links": [
+          {
+            "read":true,
+            "id":"What is Software Testing?",
+            "link":"https://www.guru99.com/software-testing-introduction-importance.html"
+          },
+          {
+            "read":true,
+            "id":"Testing Pyramid",
+            "link":"https://www.browserstack.com/guide/testing-pyramid-for-test-automation"
+          }
+        ]
+      },
+      {
+        "title": "Logging Frameworks",
+        "description": "Logging is an important feature that helps developers to trace out the errors. It provides the ability to capture the log file. Logging provides the complete tracing information of the application and also records the critical failure if any occur in an application. There are three components of Logging: Logger, Logging handlers or Appenders and Layouts or logging formatters.",
+        "links": [
+          {
+            "read":true,
+            "id":"Introduction to Java Logging",
+            "link":"https://www.baeldung.com/java-logging-intro"
+          },
+          {
+            "read":true,
+            "id":"Java Logging Frameworks",
+            "link":"https://en.wikipedia.org/wiki/Java_logging_framework"
+          }
+        ]
+      },
+      {
+        "title": "Arrays and LinkedLists",
+        "description": "Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index. Linked lists are less rigid in their storage structure and elements are usually not stored in contiguous locations, hence they need to be stored with additional tags giving a reference to the next element. This difference in the data storage scheme decides which data structure would be more suitable for a given situation.",
+        "links": [
+          {
+            "read": true,
+            "id": "Linked Lists vs Arrays",
+            "link": "https://www.geeksforgeeks.org/linked-list-vs-array/"
+          },
+          {
+            "read": false,
+            "id": "Linked List Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=odW9FU8jPRQ"
+          }
+        ]
+      },
+      {
+        "title": "heaps,Stacks & Queues",
+        "description": "**Stacks:** Operations are performed LIFO (last in, first out), which means that the last element added will be the first one removed. A stack can be implemented using an array or a linked list. If the stack runs out of memory, it’s called a stack overflow.**Queue:** Operations are performed FIFO (first in, first out), which means that the first element added will be the first one removed. A queue can be implemented using an array.**Heap:** A tree-based data structure in which the value of a parent node is ordered in a certain way with respect to the value of its child node(s). A heap can be either a min heap (the value of a parent node is less than or equal to the value of its children) or a max heap (the value of a parent node is greater than or equal to the value of its children).",
+        "links": [
+          {
+            "read": true,
+            "id": "Heaps, Stacks, Queues",
+            "link": "https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues"
+          },
+          {
+            "read": false,
+            "id": "Queue Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=mDCi1lXd9hc"
+          }
+        ]
+      },
+      {
+        "title": "Binary Search Tree",
+        "description": "A binary search tree, also called an ordered or sorted binary tree, is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree",
+        "links": [
+          {
+            "read": false,
+            "id": "Tree Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+          },
+          {
+            "read": true,
+            "id": "How to Implement Binary Search Tree in Python",
+            "link": "https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/"
+          }
+        ]
+      },
+      {
+        "title": "TinyLog",
+        "description": "Tinylog is a lightweight open-source logging framework for Java and Android, optimized for ease of use.",
+        "links": [
+          {
+            "read":true,
+            "id":"Official Website",
+            "link":"https://tinylog.org/v1/"
+          }
+        ]
+      },
+      {
+        "title": "Packages",
+        "description": "A package is a namespace that mainly contains classes and interfaces. For instance, the standard class `ArrayList` is in the package `java.util`. For this class, `java.util.ArrayList` is called its fully qualified name because this syntax has no ambiguity. Classes in different packages can have the same name. For example, you have the two classes `java.util.Date` and `java.sql.Date`, which are different. If no package is declared in a class, its package is the default package.  To create package use this command -> javac -d directory javafilename",
+        "links": [
+          {
+            "read":true,
+            "id":"Java Package",
+            "link":"https://www.javatpoint.com/package"
+          },
+          {
+            "read":true,
+            "id":"Packages In Java",
+            "link":"https://www.geeksforgeeks.org/packages-in-java/"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Write a program find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five.",
+          "sample":"Input: [19, 19, 15, 5, 3, 5, 5, 2]; Output: True"
+      },
+      {
+          "question":"Write a program that accept a list of integers and check the length and the fifth element. Return true if the length of the list is 8 and fifth element occurs thrice in the said list.",
+          "sample":"Input: [19, 19, 15, 5, 5, 5, 1, 2]; Output: True"
+      },
+      {
+          "question":"Write a Python program that accept an integer test whether an integer greater than 4^4 and which is 4 mod 34.",
+          "sample":"Input: 922; Output: True"
+      }
+  
+  ],
+    "title": "Java Developer",
+    "description": "Step by step guide to becoming a Java developer in 2022",
+    "featuredTitle": "Java",
+    "type": "tool",
+    "featuredDescription": "Step by step guide to becoming a Java Developer in 2022",
+    "isTextHeavy": false,
+    "isCommunity": false,
+    "isUpcoming": false,
+    "featured": true,
+    "jsonUrl": "/project/java.json",
+    "resourcesPath": "/roadmaps/110-java/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "/pdfs/java.pdf",
+    "contentPathsFilePath": "/roadmaps/110-java/content-paths.json",
+    "relatedRoadmaps": [
+      "backend",
+      "devops",
+      "python",
+      "golang",
+      "javascript",
+      "nodejs"
+    ],
+    "id": "java",
+    "metaPath": "/roadmaps/110-java/meta.json"
+  },
+  {
+    "seo": {
+      "title": "DBA Roadmap: Learn to become a database administrator with PostgreSQL",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a database administrator",
+        "guide to becoming a DBA",
+        "dba roadmap",
+        "db administrator roadmap",
+        "database administrator roadmap",
+        "postgresql roadmap",
+        "dba skills",
+        "db administrator skills",
+        "become dba",
+        "postgresql skills",
+        "modern dba skills",
+        "dba skills test",
+        "skills for dba",
+        "skills for database administrator",
+        "learn dba",
+        "what is dba",
+        "database administrator quiz",
+        "dba interview questions"
+      ]
+    },
+    "nodes": {
+      "name": "DBA",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Basic RDBMS",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        },
+        {
+          "name": "PostgreSQL",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Installation",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Learn SQL",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        },
+        {
+          "name": "Configure Postgres",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Basic RDBMS",
+        "description": "Get basic understanding of Postgres key terms and basic RDBMS concepts. **Object model**: data types, columns, rows, tables, schemas, databases, queries.",
+        "links": [
+          {
+            "read": true,
+            "id": "Postgres Glossary",
+            "link": "https://www.postgresql.org/docs/13/glossary.html"
+          }
+        ]
+      },
+      {
+        "title": "PostgreSQL",
+        "description": "Get practical skills of how to set up and run Postgres to get a working environment for further learning.",
+        "links": [
+          {
+            "read": true,
+            "id": "Postgres Glossary",
+            "link": "https://www.postgresql.org/docs/13/glossary.html"
+          }
+        ]
+      },
+      {
+        "title": "Installation",
+        "description": "Connect to Postgres using `psql`. Deploy database service in cloud environment (AWS, GCE, Azure, Heroku, DigitalOcean, etc...).",
+        "links": [
+          {
+            "read": true,
+            "id": "Official download and install instructions",
+            "link": "https://www.postgresql.org/download/"
+          },
+          {
+            "read": true,
+            "id": "Official Docker images",
+            "link": "https://hub.docker.com/_/postgres"
+          }
+        ]
+      },
+      {
+        "title": "Learn SQL",
+        "description": "Get practical skills of how to create and manipulate database objects and how to execute queries using `psql` client.Understand basic data types. **DML queries**: querying data, modifying data, filtering data, joining tables.**Advanced topics**: transactions, CTE, subqueries, lateral join, grouping, set operations.**DDL queries**: managing tables and schemas (create, alter, drop).Import and export data using `COPY`.",
+        "links": [
+          {
+            "read": true,
+            "id": "DB Fiddle",
+            "link": "https://www.db-fiddle.com/"
+          },
+          {
+            "read": true,
+            "id": "PostgreSQL Tutorial",
+            "link": "https://www.postgresqltutorial.com/"
+          },
+          {
+            "read": true,
+            "id": "The SQL Language",
+            "link": "https://www.postgresql.org/docs/current/sql.html"
+          }
+        ]
+      },
+      {
+        "title": "Configure Postgres",
+        "description": "Get understanding of the main aspects of how Postgres could be configured. Deep understanding of Postgres internals is not yet necessary here.",
+        "links": [
+          {
+            "read": true,
+            "id": "Postgresqlco",
+            "link": "http://postgresqlco.nf/"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"We need to build a new database for our employee records. How would you define the system storage requirements",
+          "sample":""
+      }
+  ],
+    "title": "PostgreSQL DBA",
+    "description": "Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022",
+    "featuredTitle": "DBA",
+    "type": "role",
+    "featuredDescription": "Step by step guide to become a PostgreSQL DBA in 2022",
+    "landingPath": "/roadmaps/111-postgresql-dba/landscape.md",
+    "resourcesPath": "/roadmaps/111-postgresql-dba/resources.md",
+    "author": {
+      "name": "Alexey Lesovsky",
+      "url": "https://github.com/lesovsky"
+    },
+    "isCommunity": false,
+    "isTextHeavy": true,
+    "featured": true,
+    "detailed": false,
+    "versions": [],
+    "relatedRoadmaps": [
+      "backend",
+      "devops"
+    ],
+    "id": "postgresql-dba",
+    "metaPath": "/roadmaps/111-postgresql-dba/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Learn to become a modern Flutter developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for flutter development. Learn to become a modern Flutter developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a flutter developer",
+        "guide to becoming a flutter developer",
+        "flutter developer",
+        "flutter engineer",
+        "flutter skills",
+        "guide to flutter",
+        "flutter roadmap",
+        "flutter skills",
+        "flutter skills test",
+        "skills for flutter",
+        "what is flutter",
+        "flutter quiz",
+        "flutter interview questions",
+        "flutter engineer roadmap",
+        "flutter developer roadmap",
+        "become a flutter developer",
+        "flutter developer career path",
+        "flutter developer",
+        "modern flutter developer"
+      ]
+    },
+    "nodes": {
+      "name": "Flutter",
+      "rx": "-40",
+      "ry": "-20",
+      "width": "145.3",
+      "children": [
+        {
+          "name": "Basics of Dart",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Dart Pad",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Variables",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Built-in Types",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Functions",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Operators",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            }
+          ]
+        },
+        {
+          "name": "Setup Development Environment",
+          "rx": "-40",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Flutter CLI",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Widgets",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Stateless",
+                  "rx": "-60",
+                  "ry": "-20",
+                  "width": "145.3"
+                },
+                {
+                  "name": "Stateful",
+                  "rx": "-60",
+                  "ry": "-20",
+                  "width": "145.3"
+                },
+                {
+                  "name": "Styled",
+                  "rx": "-60",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Version Control",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3"
+        },
+        {
+          "name": "Repo Hosting",
+          "rx": "-90",
+          "ry": "-20",
+          "width": "145.3",
+          "children": [
+            {
+              "name": "Github",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3"
+            },
+            {
+              "name": "Package Manager",
+              "rx": "-90",
+              "ry": "-20",
+              "width": "145.3",
+              "children": [
+                {
+                  "name": "Working with API",
+                  "rx": "-90",
+                  "ry": "-20",
+                  "width": "145.3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "content": [
+      {
+        "title": "Basics of Dart",
+        "description": "DartPad is an open source tool that lets you play with the Dart language in any modern browser.",
+        "links": [
+          {
+            "read": true,
+            "id": "DartPad",
+            "link": "https://dart.dev/tools/dartpad"
+          }
+        ]
+      },
+      {
+        "title": "Dart pad",
+        "description": "DartPad is an open source tool that lets you play with the Dart language in any modern browser.",
+        "links": [
+          {
+            "read": true,
+            "id": "DartPad",
+            "link": "https://dart.dev/tools/dartpad"
+          }
+        ]
+      },
+      {
+        "title": "Variables",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Variables",
+            "link": "https://dart.dev/guides/language/language-tour#variables"
+          }
+        ]
+      },
+      {
+        "title": "Built-in Types",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Built-in Types",
+            "link": "https://dart.dev/guides/language/language-tour#built-in-types"
+          }
+        ]
+      },
+      {
+        "title": "Functions",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Functions",
+            "link": "https://dart.dev/guides/language/language-tour#functions"
+          }
+        ]
+      },
+      {
+        "title": "Operators",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Operators",
+            "link": "https://dart.dev/guides/language/language-tour#operators"
+          }
+        ]
+      },
+      {
+        "title": "Setup Development Environment",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Setup Environment",
+            "link": "https://docs.flutter.dev/"
+          }
+        ]
+      },
+      {
+        "title": "Flutter CLI",
+        "description": "The flutter command-line tool is how developers (or IDEs on behalf of developers) interact with Flutter.",
+        "links": [
+          {
+            "read": true,
+            "id": "The Flutter command-line tool",
+            "link": "https://docs.flutter.dev/reference/flutter-cli"
+          }
+        ]
+      },
+      {
+        "title": "Widgets",
+        "description": "",
+        "links": [
+          {
+            "read": true,
+            "id": "Widgets",
+            "link": "https://api.flutter.dev/flutter/widgets"
+          }
+        ]
+      },
+      {
+        "title": "Stateful",
+        "description": "A stateful widget is dynamic: for example, it can change its appearance in response to events triggered by user interactions or when it receives data. Checkbox, Radio, Slider, InkWell, Form, and TextField are examples of stateful widgets",
+        "links": [
+          {
+            "read": true,
+            "id": "StatefulWidget class",
+            "link": "https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html"
+          }
+        ]
+      },
+      {
+        "title": "Stateless",
+        "description": "A stateless widget never changes. Icon, IconButton, and Text are examples of stateless widgets.",
+        "links": [
+          {
+            "read": true,
+            "id": "StatelessWidget class",
+            "link": "https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html"
+          }
+        ]
+      },
+      {
+        "title": "Styled",
+        "description": "Visual, behavioral, and motion-rich widgets implementing the Material Design guidelines.",
+        "links": [
+          {
+            "read": true,
+            "id": "Material Components widgets",
+            "link": "https://docs.flutter.dev/development/ui/widgets/material"
+          },
+          {
+            "read": true,
+            "id": "Cupertino (iOS-style) widgets",
+            "link": "https://docs.flutter.dev/development/ui/widgets/cupertino"
+          }
+        ]
+      },
+      {
+        "title": "Repo Hosting",
+        "description": "Repository hosting services are third-party web applications that wrap and enhance a version control system. You cannot fully utilize a repository hosting service without using an underlying version control system.",
+        "links": [
+          {
+            "read": true,
+            "id": "Repo Hosting",
+            "link": "https://bitbucket.org/product/code-repository"
+          }
+        ]
+      },
+      {
+        "title": "Github",
+        "description": "Github provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project",
+        "links": [
+          {
+            "read": true,
+            "id": "Official Github Website",
+            "link": "https://github.com/"
+          }
+        ]
+      },
+      {
+        "title":"Version Control",
+        "description":"Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.",
+        "links":[]
+      },
+      {
+        "title":"Package Manager",
+        "description":"Flutter supports using shared packages contributed by other developers to the Flutter and Dart ecosystems.",
+        "links":[
+          {
+            "read": true,
+            "id": "pub.dev",
+            "link": "https://pub.dev/"
+          },
+          {
+            "read": true,
+            "id": "Using packages",
+            "link": "https://docs.flutter.dev/development/packages-and-plugins/using-packages"
+          }
+        ]
+      },
+      {
+        "title":"Working with API",
+        "description":"JSON (JavaScript Object Notation) is a simple data interchange format used to communicate with server, store and retrieve data from it.",
+        "links":[
+          {
+            "read": true,
+            "id": "JSON and serialization",
+            "link": "https://docs.flutter.dev/development/data-and-backend/json"
+          },
+          {
+            "read": true,
+            "id": "What is REST?",
+            "link": "https://www.codecademy.com/article/what-is-rest"
+          },
+          {
+            "read": true,
+            "id": "What is REST API?",
+            "link": "https://www.redhat.com/en/topics/api/what-is-a-rest-api"
+          }
+        ]
+      }
+    ],
+    "questions":[
+      {
+          "question":"Create a Increment and Decrement in Flutter",
+          "sample":""
+      }
+  
+  ],
+    "title": "Flutter Developer",
+    "description": "Step by step guide to becoming a Flutter developer in 2022",
+    "featuredTitle": "Flutter",
+    "type": "role",
+    "featuredDescription": "Step by step guide to becoming a Flutter Developer in 2022",
+    "isTextHeavy": false,
+    "isCommunity": false,
+    "isUpcoming": false,
+    "featured": true,
+    "isNew": true,
+    "jsonUrl": "/project/flutter.json",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Moien Tajik",
+      "url": "https://twitter.com/MoienTajik"
+    },
+    "pdfUrl": "/pdfs/flutter.pdf",
+    "relatedRoadmaps": [
+      "backend",
+      "devops",
+      "python",
+      "golang",
+      "java",
+      "nodejs"
+    ],
+    "contentPathsFilePath": "/roadmaps/117-flutter/content-paths.json",
+    "id": "flutter",
+    "metaPath": "/roadmaps/117-flutter/meta.json"
+  }
+]
